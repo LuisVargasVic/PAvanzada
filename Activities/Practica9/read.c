@@ -7,6 +7,7 @@ typedef struct s 
   char lastName[20];
   short id;
   char semester[3];
+  char free;
 } Student;
 
 int main(int argc, char **argv){
